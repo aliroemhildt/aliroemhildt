@@ -2,7 +2,7 @@
 
 I'm a front-end software developer who is curious, driven, and always looking to add new skills and technologies to my tool belt. I'm passionate about thoughtful UI design, creative problem solving, and bringing strong attention-to-detail to each project.
 
-#### I'm currently learning... 
+###  I'm currently learning... 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,12 +17,13 @@ I'm a front-end software developer who is curious, driven, and always looking to
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Education
+### Education
+
 💻 Current Front End Engineering student at [Turing School of Software & Design](https://frontend.turing.edu/)
 
-📚 B.S. in Industrial and Systems Engineering from the University of Minnesota
+📚 B.S. in Industrial and Systems Engineering & minor in Design from the University of Minnesota
 
-#### Let's connect!
+### Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliroemhildt/)
 
