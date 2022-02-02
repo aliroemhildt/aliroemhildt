@@ -19,6 +19,7 @@ I'm a front-end software developer who is curious, driven, and always looking to
 
 ### Education
 💻 Current Front End Engineering student at [Turing School of Software & Design](https://frontend.turing.edu/)
+
 📚 B.S. in Industrial and Systems Engineering from the University of Minnesota
 
 #### Let's connect!
@@ -26,18 +27,3 @@ I'm a front-end software developer who is curious, driven, and always looking to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliroemhildt/)
 
 📍 Denver, CO
-
-<!--
-**aliroemhildt/aliroemhildt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
