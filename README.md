@@ -1,4 +1,4 @@
-## Hello there, I'm Ali 👋
+## Hi, I'm Ali 👋
 
 I'm a software developer who is curious, driven, and always looking to add new skills and technologies to my tool belt. I'm passionate about thoughtful UI design, creative problem solving, and bringing strong attention-to-detail to each project.
 
