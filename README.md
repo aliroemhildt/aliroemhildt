@@ -10,7 +10,7 @@ Hi, I'm Ali. I'm a software developer who is curious, driven, and always looking
 
 ⭑ Front End Engineering Certificate from [Turing School of Software & Design](https://frontend.turing.edu/)
 
-⭑ B.S. in Industrial and Systems Engineering & Design minor from the University of Minnesota
+⭑ B.S. Industrial and Systems Engineering & Design minor from the University of Minnesota
 
 ### Skills
 
