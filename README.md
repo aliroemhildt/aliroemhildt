@@ -1,8 +1,16 @@
-### Hi, I'm Ali 👋
+### Hi, I'm Ali
 
 I'm a software developer who is curious, driven, and always looking to add new skills and technologies to my tool belt. I'm passionate about thoughtful UI design, creative problem solving, and bringing strong attention-to-detail to each project.
 
-📍 Denver, CO
+⭑ Denver, CO
+
+⭑ [LinkedIn](https://www.linkedin.com/in/aliroemhildt/)
+
+### Education
+
+⭑ Front End Engineering Certificate from [Turing School of Software & Design](https://frontend.turing.edu/)
+
+⭑ B.S. in Industrial and Systems Engineering & Design minor from the University of Minnesota
 
 ### Skills
 
@@ -22,13 +30,3 @@ I'm a software developer who is curious, driven, and always looking to add new s
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Education
-
-💻 Front End Engineering Certificate from [Turing School of Software & Design](https://frontend.turing.edu/)
-
-📚 B.S. in Industrial and Systems Engineering & Design minor from the University of Minnesota
-
-### Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliroemhildt/)
